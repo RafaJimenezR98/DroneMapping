@@ -8,6 +8,7 @@ Gets a map using a video captured from a Drone flight.
 # Installation and run
 
 To run this application you need OpenCV (version 4.3.0 minimun required) and CMake (version 3.5.1 minimun required).
+
 From your command line:
 
 $ git clone git@github.com:AdrianLopezGue/daruma-backend.git
