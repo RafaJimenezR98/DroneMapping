@@ -12,5 +12,6 @@ To run this application you need OpenCV (version 4.3.0 minimun required) and CMa
 From your command line:
 
 `$git clone git@github.com:RafaJimenezR98/.git
+
 $cd `
 
