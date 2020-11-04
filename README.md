@@ -13,7 +13,6 @@ From your command line:
 
 ```
 $git clone git@github.com:RafaJimenezR98/.git
-
 $cd
 ```
 
